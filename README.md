@@ -1,4 +1,3 @@
-[![stats](https://github-readme-stats.vercel.app/api?username=pyteyon&cache_seconds=86400)](https://github-readme-stats.vercel.app/api?username=pyteyon&cache_seconds=86400)
+[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=nukopy&count_private&show_icons=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
-[![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=pyteyon&layout=compact&hide=javascript)](https://github-readme-stats.vercel.app/api/top-langs/?username=pyteyon&layout=compact&hide=javascript,html)
-[![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=pyteyon&hide=javascript)](https://github-readme-stats.vercel.app/api/top-langs/?username=pyteyon&hide=javascript,html)
+[![Top Langs Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nukopy&langs_count=10&hide=css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
